@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <item>
+        <model>1234-56AB</model>
+        <status>1</status>
+        <name>
+            <lv>Produkta nosaukums LV</lv>
+            <en>Produkta nosaukums EN</en>
+            <ru>Produkta nosaukums RU</ru>
+        </name>
+        <description>
+            <lv>Produkta apraksts LV</lv>
+            <en>Produkta apraksts EN</en>
+            <ru>Produkta apraksts RU</ru>
+        </description>
+        <quantity>21</quantity>
+        <ean>4750484023335</ean>
+        <image_url>https://www.webdev.lv/image.jpg</image_url>
+        <price>9.83</price>
+        <special_price>8.83</special_price>
+        <!-- Papildus uzdevums -->
+        <category>Planšetdatori</category>
+        <full_category>Elektrotehnika >> Datori >> Planšetdatori</full_category>
+    </item>
+</root>
